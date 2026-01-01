@@ -15,6 +15,7 @@ Each release includes:
 - **Method 2 – Manual Installation** For company computers where `.exe` files are blocked.
 
 Both methods install the Clemar Studio Revit Add-in, which includes:
+- Vertical Elements Splitter
 - Quick Elements Selector
 - Join Elements Pro
 - Batch Export to Navisworks  
